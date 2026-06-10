@@ -1,0 +1,273 @@
+= Renault M-Series
+
+== Introduction
+
+Renault Véhicules Industriels (Renault V. I., RVI) introduced the Renault Magnum in 1990. 
+
+== Marks
+
+=== General comments
+
+* The mark names are my convention.
+* It seems that the UK market was offered additional\unique versions. Please let me know if you have more details.
+
+=== Mark 1a
+
+January 1990 -> June 1992.
+
+Included the AE380 and the AE500 models. The offical name of the line was the "AE line" (=**AE**rodynamic or **A**dvanced **E**ngineering) and the "Magnum" name was the top trim offered on the AE500 model.
+
+=== Mark 1b
+
+July 1992 -> 1996
+
+"Magnum" became the offical name of the entire line.
+
+The non-Euro EE9 Mack engine was replaced with 520 HP Euro2 Mack engine and the 374 HP Renault engine was replaced with 385 HP Renault engine.
+
+=== Mark 2
+
+1996 -> 2001
+
+Added a body painted panel to the top of the lower grille.
+
+Lower side panels are painted in the cab color (or any other color the buyer want).
+
+=== Mark 3
+
+=== Mark 4
+
+? -> 2013
+
+== Available combinations
+
+The wheelbase measurement is the distance from the center of the front steering axle to the first rear drive axle
+
+=== Mark 1a
+
+==== Tractors
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.2+|AE380
+|4x2
+|?
+
+|6x4 <<lsw>>
+|3200
+
+.4+|AE500
+|4x2
+|?
+
+|6x4 <<lsw>>
+|3200
+
+|6x4 <<jumele>>
+|?
+
+|===
+
+==== Rigids
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.2+|AE380
+|4x2
+|?
+
+|6x2 (tag)
+|4385, 4715, 5045, 5375, 5705
+
+.2+|AE500
+|4x2
+|5050, 5380, 5710, 6040, 6370, 6700
+
+|6x2 (tag)
+|4385, 4715, 5045, 5375, 5705
+
+|===
+
+=== Mark 2
+
+==== Tractors
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.1+|AE390
+|4x2
+|?
+
+.4+|AE430
+|4x2
+|?
+
+|6x2 (pusher)
+|?
+
+|6x4 <<lsw>>
+|?
+
+|6x4 <<jumele>>
+|?
+
+.4+|AE470
+|4x2
+|?
+
+|6x2 (pusher)
+|?
+
+|6x4 <<lsw>>
+|?
+
+|6x4 <<jumele>>
+|?
+
+.3+|A560
+|4x2
+|?
+
+|6x2
+|?
+
+|6x4 <<jumele>>
+|?
+
+|===
+
+==== Rigids
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.2+|AE390
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+.2+|AE430
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+.2+|AE470
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+.2+|AE560
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+|===
+
+== Suspensions
+
+[id=lsw]
+=== L.S.W.
+
+Light(weight) Single Wheel (L.S.W. or LSW) option was another invovation included in the Magnum. It offered two rear axles with single 315/80 wheel and type instead of the common 295/80 twin tyres.
+
+A nice, colorful, technical painting of this version is available here: https://www.fondationberliet.org/ressources-documentaires-archives/galerie/renault-rvi-ae-magnum/
+
+The idea was to improve stability and traction without the added weight of 4 more wheels and tyres. Splitting the engine torque between two axles (instead of one) also mean that you can use lighter axles.
+
+According to a comment on this Facebook thread footnote:[https://www.facebook.com/groups/1485538132074926/posts/2033197127309021/] and my understanding of some spare parts drawings this version didn't include a inter-axle differentail (between the front the rear drive axles).
+
+This was, probably done, to save weight and to prevent a situation when all the engine torque is transfered to a single axle in case the other axle looses traction. However, no inter-axle diff meant higher wear on the tyres, espcially if thier diameter was not the same (for example due to lower air pressure or uneven load distribution).
+
+This version came with type 840 <<axles>>s.
+
+[id=jumele]
+=== Jumelé
+
+="Twined"\"Paired" in French. Meaning twin-tyre on each side of the rear axles. Used to distingush between the twin tyre verion (the common version) and the <<lsw>> version with only single tyre on each side of the two rear drive axles.
+
+Mark 1a vehicles had a very long gussets for the main suspension cross member extending almost to the engine area at the front and to the edge of the chassis at the end. On mark 1b the gussets where shorten to a more common lenth fore and aft of the cross member.
+
+[id=axles,reftext=axle]
+== Axles
+
+Renault used Meritor axles and once bought by Volvo switched to Volvo axles.
+
+=== Renault axle code
+
+The French word to axle is _Pont_ (bridge). 
+
+Example axle code:  PMA2141
+
+* P = Single rear axle
+* PA = Front axle
+* PM = Tandem unit middle axle
+* PMA = Tandem unit middle axle with adaptor gear
+* PSA = Single rear axle with adaptor gear
+
+The next two digits (sometimes only a space a single digit) is the load rating of the axle in metric tons.
+
+The third digit is the type number of the differential gearing mechanism.
+
+The forth digit is the type number of the hub reduction gear. 0 = no hub reduction (=single reduction).
+
+==== Axle tandem units
+
+* PMR2140EL -> PMA1140 + PR1140
+* PMR2141L -> PMA1141 + PR1141
+* PMR2541M -> PMA1841 + PR1841
+* PMR3345H -> PMA1845 + PR1845
+
+== Kits
+
+Each of the Magnum marks was offered by Italeri. Mostly as tractors but also as rigid but always in a 4x2 configuration.
+
+All Italeri kits include the EE9 Mack v8 engine from the initail release footnote:[Not confirmed]
+
+[cols="1,2,5,1"]
+|===
+|Kit #|Manufacturer|Name|Mark
+
+|link:https://www.scalemates.com/kits/italeri-723-renault-ae500-magnum--157463[723]
+|Italeri
+|Renault AE 500 \<<Magnum>>
+|<<1a>>
+
+|link:https://www.scalemates.com/kits/italeri-748-tiger-express-truck-and-trailer--104061[748]
+|Italeri
+|Tiger Express Truck & Trailer
+|<<1a>>
+
+|link:https://www.scalemates.com/kits/italeri-716-renault-super-magnum--157462[716]
+|Italeri
+|Renault Super Magnum
+|<<1b>>
+
+|===
+
+== References
+
+* link:https://dyler.com/blog/2041/the-renault-magnum-was-gandini-designed-industrial-art[The Renault Magnum Was Gandini Designed Industrial Art] by Augustas Balčius, Dyler, May 28, 2025
+* link:https://40ton.net/transport-w-1990-roku-o-czym-mowilo-sie-przy-okazji-premiery-renault-magnum/[Transport in 1990: what was said about the premiere of the Renault Magnum?] by Paweł Piotrowski, 40ton.net, September 7, 2025
+* link:https://www.trm24.fr/pem-trm24-nous-avons-conduit-le-renault-v-i-ae-500-magnum/[nous avons conduit le Renault V.I AE 500 Magnum] by Jean-Philippe Pastre, TRM24.fr, December 18, 2023
+* link:https://archive.commercialmotor.com/article/31st-may-1990/12/renaults-flagship-joins-french-fleet-renault-has-f[Renault's flagship joins French fleet] by Unknow, Commercial Motor, May 31 1990
+* link:https://www.commercialmotor.com/knowledge-hub/article/classic-truck-renault-magnum[Why the Renault Magnum stands head of shoulders above the rest] by Bob Beech, Commercial Motor, November 10, 2025
+* Renault data sheets from 1990
+* Renault data sheets from 1996
+* Renault sale brochure from 1997
+* Renault sale brochure from 1999
+* Renault sale brochure from 2008
