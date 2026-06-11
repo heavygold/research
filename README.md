@@ -4,12 +4,14 @@ Please see the introduction section for details.
 
 [Introduction](introduction.asciidoc)
 
-[Renault Magnum](renault_magnum.asciidoc)
+[Renault AE\Magnum](renault_magnum.asciidoc)
 
-[Scania]
+[Scania R\T\S]
 
-[Volvo]
+[Volvo F\FH]
 
 [Iveco Turbostar]
 
-[Tyre and wheels]
+[Wheels and tyres]
+
+[Mercedes NG\SK\Actors]

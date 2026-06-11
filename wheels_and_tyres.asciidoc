@@ -1,0 +1,153 @@
+= Wheels and tyres
+
+== Wheels
+
+=== Inner tube\Tubeless
+
+Older tyres require the use of an inner tube from softer rubber. Newer tyres don't use a tube - tubeless. The seal between the tyre itself and the wheel is good enough to hold the air.
+
+[id=wheel_diameters,reftext=here]
+=== Diameters
+
+There are several standard diameters of wheels:
+
+[cols="1,2,7"]
+|===
+|Diameter (inches)|Tube type|Comment
+
+|17
+|Inner tube
+|For lowloaders and Maxi trailers
+
+|19.5
+|Tubeless
+|Light trucks
+
+|20
+|Inner tube
+|
+
+|22
+|Inner tube
+|Most common size in the past.
+
+|22.5
+|Tubeless
+|Most common current size in US and Europe.
+
+|24
+|Inner tube
+|For heavy duty application.
+
+|24.5
+|Tubeless
+|For heavy duty application.
+
+|===
+
+=== Width
+
+The width of the wheel needs to match the width of the tyre (obviously).
+
+== Tyres\Tires
+
+=== Thread patterns
+
+The tyre thread is selected based on the tyre mission. Usually tyres on steering axles and tyres on drive axles have different tread.
+
+=== Sizes
+
+There are two systems to measure tyres sizes, the metric and the imperial.
+
+==== metric
+
+www/hhRwheel_size
+
+* www - the width of the tyre at the tread in millimeters. 
+* hh - the height of the tyre wall as percents of the tyre width = aspect ratio\profile
+* R = radial (tubeless)
+* wheel_size - the wheel size as described <<wheel_diameters>>
+
+===== Common metric tyre sizes
+
+[col="1,1,1,5"]
+|===
+|Size|Width (mm)|Wall height (mm)|Comment
+
+|295/80R22.5
+|295
+|295*80%=236
+|Most common older tyre
+
+|315/80R22.5
+|315
+|315*80%=252
+|Common older tyre for heavy haulage
+
+|315/70R22.5
+|315
+|315*70%=220.5
+|Common modern tyre for drive axles
+
+|385/65R22.5
+|385
+|385*0.65=250
+|Common modern for steering axles - a.k.a. "super single"
+
+|===
+
+==== Imperial
+
+The tyre wall height is not given explicitly. Sometime the overall diameter of the tyre is given (in inches) at the begning as in 33x12R22.5 = 33 inches.
+
+When the tyre size is written with a dot and two zeros the aspect ratio is very close to 100%. Otherwise a default of 88% is often assumed.
+
+===== Common Imperial tyre sizes
+
+[col="1,1,1,5"]
+|===
+|Size|Width (inches)|Wall height (inches)|Comment
+
+|12R22.5
+|12
+|12*88%=10.56
+|
+
+|12.00R22.5
+|12
+|12*100%=12
+|
+
+|14R24.5
+|14
+|14*88%=12.32
+|Common tyre for heavy haulage
+|===
+
+== 1/24-1/25 scale models wheels and tyres
+
+[col="4,1,4"]
+|===
+|Description|Closest actual size|Comment
+
+|Italeri modern rubber super single tyre
+|385/65R22.5
+|
+
+|Italeri modern rubber tyre
+|
+|
+
+|Italeri modern rubber trailer tyre
+|
+|
+
+|Italeri old plastic tyre
+|
+|Better but still shallow thread
+
+|Italeri very old plastic tyre
+|
+|Very shallow thread
+
+|===

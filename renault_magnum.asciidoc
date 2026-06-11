@@ -6,42 +6,69 @@ Renault Véhicules Industriels (Renault V. I., RVI) introduced the Renault Magnu
 
 == Marks
 
-=== General comments
+=== General comment
 
-* The mark names are my convention.
-* It seems that the UK market was offered additional\unique versions. Please let me know if you have more details.
+The mark names are my convention. They are mostly from the modeling point of view i.e. external changes that are relevant in 1/24 scale or beginning\retiring of options like wheelbases, axles configurations etc.
 
 === Mark 1a
 
 May 1990 -> June 1992.
 
-Included the AE380 and the AE500 models. The offical name of the line was the "AE line" (=**AE**rodynamic or **A**dvanced **E**ngineering or **A**erodynamique **E**space) and the "Magnum" name was the top trim level offered on the AE500 model.
+Included the AE380 and the AE500 models. The offical name of the line was the "AE line" (=**AE**rodynamic \ **A**dvanced **E**ngineering \ **A**erodynamique **E**space) and the "Magnum" name was the top trim level offered on the AE500 model.
 
 === Mark 1b
 
 July 1992 -> 1996
 
-"Magnum" became the offical name of the entire line.
+"Magnum" became the offical name of the entire line <<b13>>.
 
-The non-Euro EE9 Mack engine was replaced with 520 HP Euro2 Mack engine and the 374 HP Renault engine was replaced with 385 HP Renault engine.
+The non-Euro EE9 Mack engine was replaced with 520 HP Euro2 Mack engine and the 374 HP Renault engine was replaced with 385 HP Renault engine. Additional 415 HP engine was added.
+
+==== Additional versions 
+
+AE520 Spécial - Special version that includes some high-end options like metallic paint, unique badges, aluminum wheels and fuel tank. Offered only on a 4x2 tractor <<b16>>.
+
+AE520 \ AE420 TBV - Version that includes a 9 gears automatic\manual gear box called TBV. Offered on 4x2 tractors <<b16>>.
+
+AE385 \ AE420 Light - Version with aluminum wheels and fuel tank. Offered on 4x2 and 6x2 rigids and on 4x2 tractors <<b16>>.
 
 === Mark 2
 
-1996 -> 2001
+1997 -> 2001
 
-Added a body painted panel to the top of the lower grille.
+Added a body color painted panel to the top of the lower grille.
 
 Lower side panels are painted in the cab color (or any other color the buyer want).
 
+The "AE" was removed from the designation and the "INTEGRAL" label was added to mark the redesigned cab interior <<b6>>
+
 === Mark 3
 
-=== Mark 4
+2001 -> 2004
 
-? -> 2013
+New engines offered and the "E-Tech" designation added <<b6>>.
+
+Renault became part of Volvo so many components were changed to Volvo components. <<b6>>
+
+Newly designed side skirts (fairing) <<b6>>.
+
+=== Mark 4a
+
+2005 -> 2008
+
+New chassis and engines.
+
+=== Mark 4b
+
+2008 -> 2013
+
+The cab height was increased by 20cm <<b6>>.
 
 == Available combinations
 
 The wheelbase measurement is the distance from the center of the front steering axle to the first rear drive axle
+
+* It seems that the UK market was offered additional\unique versions. Please let me know if you have more details.
 
 === Mark 1a
 
@@ -92,6 +119,75 @@ The wheelbase measurement is the distance from the center of the front steering 
 
 |===
 
+=== Mark 1b
+
+==== Tractors
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.1+|AE385 TI
+|4x2
+|?
+
+.4+|AE420 TI
+|4x2
+|?
+
+|6x2 (push)
+|?
+
+|6x4 <<lsw>>
+|?
+
+|6x4 <<jumele>>
+|?
+
+.4+|AE520
+|4x2
+|?
+
+|6x2 (push)
+|?
+
+|6x4 <<lsw>>
+|?
+
+|6x4 <<jumele>>
+|?
+
+|===
+
+==== Rigids
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.2+|AE385 TI
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+.2+|AE420 TI
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+.2+|AE520
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+|===
+
 === Mark 2
 
 ==== Tractors
@@ -108,36 +204,36 @@ The wheelbase measurement is the distance from the center of the front steering 
 |4x2
 |?
 
-|6x2 (pusher)
+|6x2 (push)
 |?
 
 |6x4 <<lsw>>
 |?
 
-|6x4 <<jumele>>
+|6x4 (doubles)
 |?
 
 .4+|AE470
 |4x2
 |?
 
-|6x2 (pusher)
+|6x2 (push)
 |?
 
 |6x4 <<lsw>>
 |?
 
-|6x4 <<jumele>>
+|6x4 (doubles)
 |?
 
-.3+|A560
+.3+|AE560
 |4x2
 |?
 
-|6x2
+|6x2 (push)
 |?
 
-|6x4 <<jumele>>
+|6x4 (doubles)
 |?
 
 |===
@@ -178,6 +274,127 @@ The wheelbase measurement is the distance from the center of the front steering 
 
 |===
 
+Sources: <<b9>>
+
+=== Mark 3
+
+==== Tractors
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.1+|AE400
+|4x2
+|?
+
+.4+|AE440
+|4x2
+|?
+
+|6x2 (pusher)
+|?
+
+|6x2 (tag - single or doubles)
+|?
+
+|6x4 (doubles)
+|?
+
+.4+|AE480
+|4x2
+|?
+
+|6x2 (pusher)
+|?
+
+|6x2 (tag - single or doubles)
+|?
+
+|6x4 (doubles)
+|?
+
+|===
+
+==== Rigids
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.2+|AE400
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+.2+|AE440
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+.2+|AE480
+|4x2
+|?
+
+|6x2 (tag)
+|?
+
+|===
+
+Sources: <<b17>>
+
+=== Mark 4b
+
+==== Tractors
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.2+|AE460
+|4x2
+|3920, 4120
+
+|6x2 (pusher)
+|4420
+
+.2+|AE500
+|4x2
+|3920, 4120
+
+|6x2 (pusher)
+|4420
+
+|===
+
+==== Rigids
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+.2+|AE460
+|4x2
+|5120, 5370, 5620, 5870
+
+|6x2 (tag)
+|5120, 5370, 5620, 5870, 6370
+
+.2+|AE500
+|4x2
+|5120, 5370, 5620, 5870
+
+|6x2 (tag)
+|5120, 5370, 5620, 5870, 6370
+
+|===
+
+Sources: <<b11>>
+
 == Suspensions
 
 [id=lsw]
@@ -205,7 +422,7 @@ Mark 1a vehicles had a very long gussets for the main suspension cross member ex
 [id=axles,reftext=axle]
 == Axles
 
-Renault used Meritor axles and once bought by Volvo switched to Volvo axles.
+Renault used Meritor axles and once bought by Volvo switched to Volvo axles footnote:[Not confirmed].
 
 The axles were shared with Renault R420 and R380 <<b3>>.
 
@@ -224,6 +441,14 @@ The axles were shared with Renault R420 and R380 <<b3>>.
 |1a
 |4x2
 |PMR1345 <<b4>> <<b3>>
+
+|3
+|4x2, 6x2, 6x4
+|P1370, P1345 <<b17>>
+
+|4b
+|4x2, 6x2
+|P13170/2 <<b11>>
 
 |===
 
@@ -251,6 +476,12 @@ The forth digit is the type number of the hub reduction gear. 0 = no hub reducti
 * PMR2141L -> PMA1141 + PR1141
 * PMR2541M -> PMA1841 + PR1841
 * PMR3345H -> PMA1845 + PR1845
+
+== Special\limited editions
+
+=== Route 66
+
+2010 based on US route 66 theme <<b15>>.
 
 == Kits
 
@@ -290,7 +521,12 @@ All Italeri kits include the EE9 Mack v8 engine from the initail release footnot
 * [[[b6,6]]] link:https://transgrafi.blogspot.com/2015/08/042-renault-magnum.html[042 ---- RENAULT MAGNUM] by M. Hernández, August 31, 2015
 * [[[b7,7]]] Renault data sheets from 1990
 * [[[b8,8]]] Renault data sheets from 1996
-* [[[b9,9]]] Renault sale brochure from 1997
+* [[[b9,9]]] Renault sale brochure, May 1997, Ref. 50 01 999 581
 * [[[b10,10]]] Renault sale brochure from 1999
-* [[[b11,11]]] Renault sale brochure from 2008
+* [[[b11,11]]] Renault sale brochure, February 2008, Ref. 50 21 026 343
 * [[[b12,12]]] Facebook thread https://www.facebook.com/groups/1485538132074926/posts/2033197127309021/
+* [[[b13,13]]] Renault sale brochure from November 1993
+* [[[b14,14]]] link:https://truckblog.co.uk/2014/03/09/renault-ae-magnum-1990-2013/comment-page-1/[truckblog.co.uk - Renault AE Magnum = 1990-2013] by Ben, March 9, 2014
+* [[[b15,15]]] link:https://truckblog.co.uk/2014/05/27/r-i-p-magnum-2010-magnum-route-66-limited-edition/[truckblog.co.uk - R.I.P. Magnum: 2010 Magnum “Route 66” Limited Edition] by Ben, May 27, 2014
+* [[[b16,16]]] Renault sale brochure, May 1993, Ref. 50 10 819 415 
+* [[[b17,17]]] Renault sale brochure, August 2001, Ref. 50 02 001 867 
