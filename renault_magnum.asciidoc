@@ -13,9 +13,9 @@ Renault Véhicules Industriels (Renault V. I., RVI) introduced the Renault Magnu
 
 === Mark 1a
 
-January 1990 -> June 1992.
+May 1990 -> June 1992.
 
-Included the AE380 and the AE500 models. The offical name of the line was the "AE line" (=**AE**rodynamic or **A**dvanced **E**ngineering) and the "Magnum" name was the top trim offered on the AE500 model.
+Included the AE380 and the AE500 models. The offical name of the line was the "AE line" (=**AE**rodynamic or **A**dvanced **E**ngineering or **A**erodynamique **E**space) and the "Magnum" name was the top trim level offered on the AE500 model.
 
 === Mark 1b
 
@@ -183,17 +183,17 @@ The wheelbase measurement is the distance from the center of the front steering 
 [id=lsw]
 === L.S.W.
 
-Light(weight) Single Wheel (L.S.W. or LSW) option was another invovation included in the Magnum. It offered two rear axles with single 315/80 wheel and type instead of the common 295/80 twin tyres.
+Light(weight) Single Wheel (L.S.W. or LSW) option was another invovation included in the Magnum. It had two rear axles with single 315/80R22.5 wheel and tyre instead of the common 295/80 twin tyres.
 
 A nice, colorful, technical painting of this version is available here: https://www.fondationberliet.org/ressources-documentaires-archives/galerie/renault-rvi-ae-magnum/
 
-The idea was to improve stability and traction without the added weight of 4 more wheels and tyres. Splitting the engine torque between two axles (instead of one) also mean that you can use lighter axles.
+The idea was to improve stability and traction and saving weight (400kg according to <<b4>>). Splitting the engine torque between two axles (instead of one) also mean that you can use lighter axles.
 
-According to a comment on this Facebook thread footnote:[https://www.facebook.com/groups/1485538132074926/posts/2033197127309021/] and my understanding of some spare parts drawings this version didn't include a inter-axle differentail (between the front the rear drive axles).
+According to <<b12>> and to my understanding of some spare parts drawings this version didn't include a inter-axle differentail (between the front the rear drive axles).
 
-This was, probably done, to save weight and to prevent a situation when all the engine torque is transfered to a single axle in case the other axle looses traction. However, no inter-axle diff meant higher wear on the tyres, espcially if thier diameter was not the same (for example due to lower air pressure or uneven load distribution).
+This was, probably, done to save weight and to prevent a situation when all the engine torque is transfered to a single axle in case the other axle looses traction. However, no inter-axle diff meant higher wear on the tyres, espcially if thier diameter was not the same (for example due to lower air pressure or uneven load distribution).
 
-This version came with type 840 <<axles>>s.
+The distance between the two axles is 1300 mm.
 
 [id=jumele]
 === Jumelé
@@ -206,6 +206,26 @@ Mark 1a vehicles had a very long gussets for the main suspension cross member ex
 == Axles
 
 Renault used Meritor axles and once bought by Volvo switched to Volvo axles.
+
+The axles were shared with Renault R420 and R380 <<b3>>.
+
+[cols="1,3,4"]
+|===
+|Mark|Configuration|Axles
+
+|1a
+|6x4 <<jumele>>
+|PMR1540 <<b4>>
+
+|1a
+|6x4 <<lsw>>
+|Type 840 <<b7>> PMR1540 <<b3>>
+
+|1a
+|4x2
+|PMR1345 <<b4>> <<b3>>
+
+|===
 
 === Renault axle code
 
@@ -259,15 +279,18 @@ All Italeri kits include the EE9 Mack v8 engine from the initail release footnot
 
 |===
 
+[bibliography]
 == References
 
-* link:https://dyler.com/blog/2041/the-renault-magnum-was-gandini-designed-industrial-art[The Renault Magnum Was Gandini Designed Industrial Art] by Augustas Balčius, Dyler, May 28, 2025
-* link:https://40ton.net/transport-w-1990-roku-o-czym-mowilo-sie-przy-okazji-premiery-renault-magnum/[Transport in 1990: what was said about the premiere of the Renault Magnum?] by Paweł Piotrowski, 40ton.net, September 7, 2025
-* link:https://www.trm24.fr/pem-trm24-nous-avons-conduit-le-renault-v-i-ae-500-magnum/[nous avons conduit le Renault V.I AE 500 Magnum] by Jean-Philippe Pastre, TRM24.fr, December 18, 2023
-* link:https://archive.commercialmotor.com/article/31st-may-1990/12/renaults-flagship-joins-french-fleet-renault-has-f[Renault's flagship joins French fleet] by Unknow, Commercial Motor, May 31 1990
-* link:https://www.commercialmotor.com/knowledge-hub/article/classic-truck-renault-magnum[Why the Renault Magnum stands head of shoulders above the rest] by Bob Beech, Commercial Motor, November 10, 2025
-* Renault data sheets from 1990
-* Renault data sheets from 1996
-* Renault sale brochure from 1997
-* Renault sale brochure from 1999
-* Renault sale brochure from 2008
+* [[[b1,1]]] link:https://dyler.com/blog/2041/the-renault-magnum-was-gandini-designed-industrial-art[The Renault Magnum Was Gandini Designed Industrial Art] by Augustas Balčius, Dyler, May 28, 2025
+* [[[b2,2]]] link:https://40ton.net/transport-w-1990-roku-o-czym-mowilo-sie-przy-okazji-premiery-renault-magnum/[Transport in 1990: what was said about the premiere of the Renault Magnum?] by Paweł Piotrowski, 40ton.net, September 7, 2025
+* [[[b3,3]]] link:https://www.trm24.fr/pem-trm24-nous-avons-conduit-le-renault-v-i-ae-500-magnum/[nous avons conduit le Renault V.I AE 500 Magnum] by Jean-Philippe Pastre, TRM24.fr, December 18, 2023
+* [[[b4,4]]] link:https://archive.commercialmotor.com/article/31st-may-1990/12/renaults-flagship-joins-french-fleet-renault-has-f[Renault's flagship joins French fleet] by Unknow, Commercial Motor, May 31 1990
+* [[[b5,5]]] link:https://www.commercialmotor.com/knowledge-hub/article/classic-truck-renault-magnum[Why the Renault Magnum stands head of shoulders above the rest] by Bob Beech, Commercial Motor, November 10, 2025
+* [[[b6,6]]] link:https://transgrafi.blogspot.com/2015/08/042-renault-magnum.html[042 ---- RENAULT MAGNUM] by M. Hernández, August 31, 2015
+* [[[b7,7]]] Renault data sheets from 1990
+* [[[b8,8]]] Renault data sheets from 1996
+* [[[b9,9]]] Renault sale brochure from 1997
+* [[[b10,10]]] Renault sale brochure from 1999
+* [[[b11,11]]] Renault sale brochure from 2008
+* [[[b12,12]]] Facebook thread https://www.facebook.com/groups/1485538132074926/posts/2033197127309021/

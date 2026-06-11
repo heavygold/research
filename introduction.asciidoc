@@ -1,10 +1,18 @@
 = Introduction
 
-I have created this repository to provide modelers information that they may find useful to build and convert thier models. I mostly refered to Italeri (and Revell) 1/24 scale plastic models (because this is my personal main modeling interest) but most information will be relevant to any scale.
+I have created this repository to share information that may be useful in building and converting scale truck models. I mostly refer to Italeri (and Revell) 1/24 scale plastic models (because this is my personal main modeling interest) but most information will be relevant to any scale.
 
-Personally I think that every truck looks much better with 3 or more axles. Unfortunatly, Italeri (and Revell) offers most of their European trucks only as 4x2 tractor heads. 
+Personally, I think that every truck looks much better with 3 or more axles. Unfortunatly, Italeri (and Revell) offers most of their European trucks only as 4x2 tractor heads. So, with the advancements in 3D printing I started to design heavier suspensions to modifty Italeri kits. During my research to gain the data I need to model these suspensions I collect a vast amount of information so why not share it with the entire community. 
 
-As mentioned above my main interest is  designing suspensions (anything that is not 4x2) to modify Italeri and other manufacturers 1/24 scale kits. Therefore, the information on this site will be highly skewed to this direction but I will add any piece of information that I think is interesting (at least to me) or that may be useful to a truck modeler.
+Another reasong for this repository is to help myself orgenize and coalesce my data since I often times have long periods I can't devote any time to this activity and once I return to it, I discover that I have already forgotten much of what I have learnt.
+
+As mentioned above, my main interest is designing suspensions (anything that is not 4x2) to modify Italeri and other manufacturers 1/24 scale kits. Therefore, the information on this site will be highly skewed in this direction but I will add any piece of information that I think is interesting (at least to me) or that may be useful to a truck modeler.
+
+A great feature of using GitHub is that this platform easily allows contributions from multiple authors and I hope that, in time, more people will share thier time and knowledge on this repository.
+
+I will greatlly appreciate any corrections, additions, techincal drawings and other technical literature or any other input that will improve this repository (including pointing out spelling and grammatical mistakes). 
+
+My email is heavygold.info@gmail.com
 
 Thanks,
 {empty} +
