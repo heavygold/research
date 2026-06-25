@@ -414,7 +414,7 @@ The distance between the two axles is 1300 mm.
 
 ="Twined"\"Paired" in French. Meaning twin-tyre on each side of the rear axles. Used to distingush between the twin tyre verion (the common version) and the <<lsw>> version with only single tyre on each side of the two rear drive axles.
 
-Mark 1a vehicles had a very long gussets for the main suspension cross member extending almost to the engine area at the front and to the edge of the chassis at the end. On mark 1b the gussets where shorten to a more common lenth fore and aft of the cross member.
+Mark 1a vehicles had a very long gussets for the main suspension cross member extending almost to the engine area at the front and to the edge of the chassis at the end. On mark 1b the gussets where shorten to a more common length fore and aft of the cross member.
 
 [id=axles,reftext=axle]
 == Axles
@@ -451,7 +451,7 @@ The axles were shared with Renault R420 and R380 <<b3>>.
 
 === Renault axle code
 
-The French word to axle is _Pont_ (bridge). 
+The French word for axle is _Pont_ (bridge). 
 
 Example axle code:  PMA2141
 
