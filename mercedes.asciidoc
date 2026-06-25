@@ -1,0 +1,46 @@
+= Mercedes
+:nofooter:
+
+== Introduction
+
+== Marks
+
+=== Mark 1
+
+NG (New Generation) range
+
+=== Mark 2
+
+SK (Schwere Klasse = Heavy Class) range
+
+Visual changes compare to the NG range:
+* Bottoms of side windows are slopped forward (on the NG cab they are horizontal)
+* Larger vertical door handles
+* Full width front grille
+* Larger, more complex, dashboard (I have designed the correct dashboard in 1/24. It is available on Cults3D - link:https://cults3d.com/en/3d-model/game/mercedes-sk-updated-parts-1-24[Mercedes SK updated parts 1/24])
+
+=== Mark 3a
+
+Actros MP1
+
+Completely new truck
+
+=== Mark 3b
+
+Actros MP2
+
+=== Mark 3c
+
+Actors MP3
+
+=== Mark 4a
+
+2011 -> 2018
+
+The New Actors
+
+=== Mark 4b
+
+2018 ->
+
+Facelift

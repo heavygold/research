@@ -1,4 +1,5 @@
 = Introduction
+:nofooter:
 
 I have created this repository to share information that may be useful in building and converting scale truck models. I mostly refer to Italeri (and Revell) 1/24 scale plastic models (because this is my personal main modeling interest) but most information will be relevant to any scale.
 
@@ -13,6 +14,12 @@ A great feature of using GitHub is that this platform easily allows contribution
 I will greatlly appreciate any corrections, additions, techincal drawings and other technical literature or any other input that will improve this repository (including pointing out spelling and grammatical mistakes). 
 
 My email is heavygold.info@gmail.com
+
+== General comment regarding the marks
+
+To help myself and other modellers I divide each truck range to generations which I call Marks.
+These marks are my convention only. They are mostly from the modeling point of view i.e. external changes that are relevant in 1/24 scale or beginning\retiring of options like wheelbases, axles configurations etc. 
+These marks are very rarely the official designations.
 
 Thanks,
 {empty} +

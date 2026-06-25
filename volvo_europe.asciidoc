@@ -1,0 +1,105 @@
+= Scania
+:nofooter:
+
+== Introduction
+
+== Marks
+
+=== Mark 1
+
+F10, F12, F16
+
+=== Mark 2a
+
+1993 -> 1998
+
+FH12, FH16
+Rectengular headlights
+
+=== Mark 2b
+
+1998 ->  2002
+
+Facelift
+Modified suspensions
+
+=== Mark 3a
+
+2002 -> 2005
+
+Facelift
+
+=== Mark 3b
+
+2005 -> 2008
+
+=== Mark 3c
+
+2008 -> 2012
+
+=== Mark 4a
+
+2012 -> 2020
+
+FH4
+
+=== Mark 4b
+
+2020 -> 2024
+
+=== Mark 5
+
+2024 -> present
+
+Aero
+FH5
+
+== Suspensions
+
+=== RADD-BR
+
+"b-ride"
+
+Two driven axles. Parabolic or trapezoid springs.
+
+=== RADD-TR1\TR2
+
+"t-ride"
+
+Two driven axles. Parabolic or trapezoid springs.
+
+=== RADD-A8
+
+8 airbags.
+
+Two driven axles
+
+== Kits
+
+Each of the F and FH Volvo marks were offered by Italeri. Mostly as tractors, some as rigid but always in a 4x2 configuration.
+
+[cols="1,2,5,1"]
+|===
+|Kit #|Manufacturer|Name|Mark
+
+|link:https://www.scalemates.com/kits/italeri-751-volvo-f12--155743[751]
+|Italeri
+|Volvo F12
+|<<1>>
+
+|link:https://www.scalemates.com/kits/italeri-752-globetrotter--157498[752]
+|Italeri
+|Globetrotter
+|<<1>>
+
+|link:https://www.scalemates.com/kits/italeri-733-volvo-fh-16--155745[733]
+|Italeri
+|Volvo FH-16
+|<<2a>>
+
+|link:https://www.scalemates.com/kits/italeri-735-volvo-fh-16-globetrotter--157485[735]
+|Italeri
+|Volvo FH-16 Globetrotter
+|<<2a>>
+
+|===

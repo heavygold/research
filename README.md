@@ -6,12 +6,12 @@ Please see the introduction section for details.
 
 [Renault AE\Magnum](renault_magnum.asciidoc)
 
-[Scania R\T\S]
+[Scania](scania.asciidoc)
 
-[Volvo F\FH]
+[Volvo Europe](volvo_europe.asciidoc)
 
 [Iveco Turbostar]
 
-[Wheels and tyres]
+[Wheels and tyres](wheels_and_tyres.asciidoc)
 
-[Mercedes NG\SK\Actors]
+[Mercedes NG\SK\Actors](mercedes.asciidoc)

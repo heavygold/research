@@ -1,0 +1,5 @@
+= 3D printing
+:nofooter:
+
+The Internet is full with advices around hobby 3D printing but most of them are pretaining more to figures. This page will document tips and advices that I have found that are specific to printing scale modeling parts.
+

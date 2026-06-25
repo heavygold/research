@@ -1,4 +1,5 @@
 = Wheels and tyres
+:nofooter:
 
 == Wheels
 

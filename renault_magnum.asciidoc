@@ -1,14 +1,11 @@
 = Renault M-Series
+:nofooter:
 
 == Introduction
 
 Renault Véhicules Industriels (Renault V. I., RVI) introduced the Renault Magnum in 1990. 
 
 == Marks
-
-=== General comment
-
-The mark names are my convention. They are mostly from the modeling point of view i.e. external changes that are relevant in 1/24 scale or beginning\retiring of options like wheelbases, axles configurations etc.
 
 === Mark 1a
 
@@ -485,7 +482,7 @@ The forth digit is the type number of the hub reduction gear. 0 = no hub reducti
 
 == Kits
 
-Each of the Magnum marks was offered by Italeri. Mostly as tractors but also as rigid but always in a 4x2 configuration.
+Each of the Magnum marks were offered by Italeri. Mostly as tractors, some as rigid but always in a 4x2 configuration.
 
 All Italeri kits include the EE9 Mack v8 engine from the initail release footnote:[Not confirmed]
 
