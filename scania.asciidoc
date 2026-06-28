@@ -5,12 +5,12 @@
 
 == Marks
 
-[id=m1,reftext=1]
+[id=m1,reftext=Mk. 1]
 === Mark 1
 
 1975 -> 1981 
 
-[id=m2,reftext=2]
+[id=m2,reftext=Mk. 2]
 === Mark 2
 
 1980 -> 1989
@@ -43,7 +43,7 @@ Available models were 82, 112, 142. The last digit ("2") is the series, the firs
 
 A R 142 V8 version with Intercooler was introduced in 1983. To accomodate the intercooler (requiring a smaller radiator installed in-front of the main radiator) the front panel of the cab (the grille) was moved forward 5cm and the panel on which the large "SCANIA" logo is embedded became angled instead of totally vertical as on the non-intercooler versions. The hood of the T model was extended too <<b6>>.
 
-[id=m3,reftext=3]
+[id=m3,reftext=Mk. 3]
 === Mark 3
 
 1987 -> 1998
@@ -54,7 +54,7 @@ A new badge with the engine horsepowers were added to the lower grille on the po
 
 The "Streamline" cab was added in 1991 as an option.
 
-[id=m4,reftext=4]
+[id=m4,reftext=Mk. 4]
 === Mark 4
 
 1996 -> 2005 (2007 in Brazil)
@@ -68,7 +68,7 @@ The letter following the digits in the model designation now stands for the vehi
 * C = Construction (heavy duty with high ground clearnce)
 * G = General purpose (heavy duty)
 
-[id=m5a,reftext=5a]
+[id=m5a,reftext=Mk. 5a]
 === Mark 5a
 
 2004 -> 2009
@@ -83,20 +83,20 @@ The G cab (medium height between the P and the R) added in 2007.
 
 Sometimes referred to as "Series 5"
 
-=== Mark 5b
+=== Mark Mk. 5b
 
 2009 -> 2013
 
 Facelift. Upgraded grille, cab interior and other modifications.
 Sometimes referred to as "Series 6"
 
-=== Mark 5c
+=== Mark Mk. 5c
 
 2013 -> 2017
 
 Streamline G and R cab versions without the air intakes on the sides.
 
-[id=m6,reftext=6]
+[id=m6,reftext=Mk. 6]
 === Mark 6
 
 2016 -> present
@@ -108,17 +108,97 @@ The S cab (with completely flat floor) and the L cab (extra low mounted cab for 
 
 Added the XT option for extra heavy offroad applications.
 
+== Available combinations
+
+The wheelbase measurement is the distance from the center of the front steering axle to the first rear axle. 
+
+Scania had a lot of combinations. This list is partial.
+
+=== Mark 2
+
+==== Tractors
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+| R112M
+| 6x2 (tag. steel rear)
+| 3100
+
+| R112E
+| 6x4 (<<sus_heavy_balance>>)
+| 3800, 4600
+
+| R142H
+| 4x2 (steel rear)
+| 3100, 3400, 3800, 4200, 4600
+
+| R142H
+| 6x4 (<<sus_heavy_balance>>)
+| 3100, 3400, 4200, 4600
+
+| R142E
+| 6x4 (<<sus_heavy_balance>>)
+| 3100, 3400, 3800, 4200, 4600
+
+| T142E
+| 6x4 (<<sus_heavy_balance>>)
+| 3800, 4200, 4600, 5000, 5400
+
+|===
+
+==== Rigids
+
+[cols="1,1,1"]
+|===
+|Model|Configuration|Wheelbases (mm)
+
+| R112M
+| 4x2 (steel rear)
+| 5000
+
+| R142M
+| 6x2 (tag. air rear)
+| 3100, 3400, 3800, 4200, 4600
+
+| R142M
+| 6x4 (<<sus_bell_crank>>)
+| 3100, 3800, 4600
+
+| R142M
+| 6x2 (tag. steel rear)
+| 4600
+
+| R142H
+| 6x2 (tag. steel rear)
+| 3100, 3400, 3800, 4200, 4600
+
+| R142H
+| 8x2 (tag. steel rear)
+| 5400, 5900
+
+| T92H
+| 6x4 (<<sus_heavy_balance>>)
+| 4200, 4600, 5000, 5400
+
+|===
+
 == Suspensions
 
+[id=sus_bell_crank,reftext=bell-crank suspension]
 === Bell crank
 
 Double-drive tandem with four steel leaf springs (2 on each side) that are connected by rods and bell cranks.
 
-Available on Mark <<m1>> and <<m2>> (on M chassis only)
+Available on <<m1>> and <<m2>> (on M chassis only)
 
+Distance between axles: 1360mm.
+
+[id=sus_heavy_balance,reftext=heavy balance beam]
 === Heavy balance beam
 
-Available on Mark <<m2>> and <<m3>> (maybe also on Mark <<m1>> - not sure) on the H and E chassis
+Available on <<m2>> and <<m3>> (maybe also on <<m1>> - not sure) on the H and E chassis
 
 Double drive with trapezoid springs with 8, 10 or 12 leaves.
 
@@ -126,13 +206,13 @@ Distance between axles: 1350mm.
 
 === BT200
 
-Available on Mark <<m3>> and <<m4>> on the M chassis.
+Available on <<m3>> and <<m4>> on the M chassis.
 
 Lighter double-drive suspension with trapezoid (or parabolic?) steel springs.
 
 === BT201\BT300
 
-Available on Mark <<m4>> and forward.
+Available on <<m4>> and forward.
 
 Heavy duty double-drive with trapezoid or parabolic steel springs.
 
@@ -140,13 +220,50 @@ Distance between axles: 1350mm.
 
 === 6x2 tag steel springs
 
-Available on Mark <<m2>> and <<m3>>.
+Available on <<m2>> and <<m3>>.
 
 Provided in the 6x2 Italeri kits (very good facsimile).
+
+Distance between axles: 1400mm.
 
 === 6x4 air bags
 
 === 6x2 tag air bags
+
+== Engines
+
+=== DSC14
+
+A 14 liters V8 engine that is available in Italeri kits. Used in <<m2>>
+
+== Axles
+
+* Letters
+** R = Central gear for front axle, single rear axle or bogie axle.
+** RB = Central gear for forward bogie axle.
+** RP = Central gear and hub reduction gear on single rear axle or rear bogie axle.
+** RBP = Central gear and hub reduction gear for forward bogie axle.
+** RH = Hub reduction gear
+* First two digits = Relative weight rating
+* Last digit = Development stage \ version
+
+=== R660
+
+=== R770
+
+=== RP830\RP831
+
+The heaviest differential option. 
+
+Use AD100 axle beam. 
+
+An option for the 6x4 <<sus_heavy_balance>> on <<m2>> with RBP830\RBP831 for the front axle of the tandem.
+
+=== RP831\RP832
+
+=== RP835
+
+Used on <<m4>> and forward. Visually different from previous Rx830 with more squarish housing to improve ground clearance.
 
 == Kits
 
@@ -156,19 +273,26 @@ Most of Scania marks (since mark 2) were offered by Italeri. Mostly as tractors,
 |===
 |Kit #|Manufacturer|Name|Mark
 
+|link:https://www.scalemates.com/kits/heller-770-scania-lb-141--169355[770]
+|Heller
+|Scania LB 141
+|<<m1>>
 
 |link:https://www.scalemates.com/kits/italeri-755-turbo-truck--157500[755]
 |Italeri
 |Turbo Truck
 |<<m2>>
+
 |link:https://www.scalemates.com/kits/italeri-743-scania-r-144--157492[743]
 |Italeri
 |Scania R 144
 |<<m4>>
+
 |link:https://www.scalemates.com/kits/italeri-3927-scania-s730-highline-4x2--1029942[3927]
 |Italeri
 |Scania S730 Highline 4x2
 |<<m6>>
+
 |link:https://www.scalemates.com/kits/italeri-3961-scania-s770-4x2-normal-roof--1469658[3961]
 |Italeri
 |Scania S770 4x2 Normal Roof
@@ -189,3 +313,4 @@ Wikipedia
 * [[[b5,5]]] link:https://www.scania.com/content/dam/scanianoe/global/eventcontent/2016/2016-08-23-next-generation-scania/pressreleases-pdf/english/New-truck-range---exterior.pdf[Scania's new truck range provides more
 of everything] Scania Press Release, August 23, 2016
 * [[[b6,6]]] link:https://truckinfocus.com/encyclopedia/history/the-scania-chronicle?page=6[The Scania Chronicle (page 6)] TruckInFocus.com
+* [[[b7,7]]] Scania sales brochure (German), 0402-83-09, 1983
