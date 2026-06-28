@@ -15,8 +15,9 @@
 
 1980 -> 1989
 
-Scania Series-2, also known as GPRT range.
-Had three type of chassis duty levels (the size of the chassis rails were the same, just thicker walls and an additional inner rails in the E level): 
+Scania Series-2, also known as "PRT-range" and later "GPRT-range".
+
+Had three types of chassis duty levels (the size of the chassis rails was the same, just from thicker steel on the H and E levels and an additional inner rails on the E level): 
 
 * M = Medium duty
 * H = Heavy duty
@@ -24,17 +25,23 @@ Had three type of chassis duty levels (the size of the chassis rails were the sa
 
 The chassis type appeared following the numeric model designation, e.g. 142H.
 
+The duty level designation had two sub-types:
+
+* MA = Tractor head for long-distance work
+* HK = Higher ground clearence version for tippers (Kippers) and other construction usages
+
 Had four type of cabs:
 
-* P = Low cab (only available as a day cab?)
+* G = Low-mounted (day cab only. Introduced later)
+* P = Low cab
 * R = High cab
 * T = Bonneted cab (a.k.a "Torpedo")
 
-A low-mounted G cab was available too on the M chassis. Had only two steps vs three for the P cab.
+The low-mounted G cab was available only on the M chassis. Had only two steps vs three for the P cab.
 
 Available models were 82, 112, 142. The last digit ("2") is the series, the first one or two digits are the engine displacement (approximately) in liters.
 
-A R 142 V8 version with Intercooler was introduced in 1983. To accomodate the intercooler (smaller radiator installed infront of the main radiator) the front panel of the cab (the grille) was moved forward 5cm and the panel on which the large "SCANIA" logo is embedded became angled instead of totally vertical as on the non-intercooler versions. The hood of the T model was extended too <<b6>>.
+A R 142 V8 version with Intercooler was introduced in 1983. To accomodate the intercooler (requiring a smaller radiator installed in-front of the main radiator) the front panel of the cab (the grille) was moved forward 5cm and the panel on which the large "SCANIA" logo is embedded became angled instead of totally vertical as on the non-intercooler versions. The hood of the T model was extended too <<b6>>.
 
 [id=m3,reftext=3]
 === Mark 3
@@ -97,7 +104,7 @@ Streamline G and R cab versions without the air intakes on the sides.
 Also known as "Next Generation Scania". 
 No common parts in the new R and S cab with the previous mark <<b5>>.
 
-The S cab (with completely flat floor) and the L cab (extra low mounted cab for applications like garbage collection) were add to the range which is called the "LPGRS-range".
+The S cab (with completely flat floor) and the L cab (extra low mounted cab for applications like garbage collection) were added to the range which is called the "LPGRS-range".
 
 Added the XT option for extra heavy offroad applications.
 
@@ -107,11 +114,11 @@ Added the XT option for extra heavy offroad applications.
 
 Double-drive tandem with four steel leaf springs (2 on each side) that are connected by rods and bell cranks.
 
-Available on Mark <<m1>> and <<m2>> (on M chassis)
+Available on Mark <<m1>> and <<m2>> (on M chassis only)
 
 === Heavy balance beam
 
-Available on Mark <<m2>> and <<m3>> (maybe also on Mark <<1>> - not sure) on the H and E chassis
+Available on Mark <<m2>> and <<m3>> (maybe also on Mark <<m1>> - not sure) on the H and E chassis
 
 Double drive with trapezoid springs with 8, 10 or 12 leaves.
 
