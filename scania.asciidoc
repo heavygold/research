@@ -303,10 +303,8 @@ Most of Scania marks (since mark 2) were offered by Italeri. Mostly as tractors,
 [bibliography]
 == References
 
-* [[[b1,1]]] link:https://en.wikipedia.org/wiki/Scania_2-series[Scania 2-series] 
-Wikipedia
-* [[[b2,2]]] link:https://en.wikipedia.org/wiki/Scania_3-series[Scania 3-series] 
-Wikipedia
+* [[[b1,1]]] link:https://en.wikipedia.org/wiki/Scania_2-series[Scania 2-series] Wikipedia
+* [[[b2,2]]] link:https://en.wikipedia.org/wiki/Scania_3-series[Scania 3-series] Wikipedia
 * [[[b3,3]]] link:https://en.wikipedia.org/wiki/Scania_4-series[Scania 
 4-series] Wikipedia
 * [[[b4,4]]] link:https://forum.truckersmp.com/index.php?/topic/109971-questions-about-scania-trucks/[Questions about Scania trucks] TruckersMP forum, September 12, 2022

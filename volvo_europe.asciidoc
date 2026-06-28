@@ -5,10 +5,12 @@
 
 == Marks
 
+[id=m1,reftext=Mk. 1]
 === Mark 1
 
 F10, F12, F16
 
+[id=m2a,reftext=Mk. 2a]
 === Mark 2a
 
 1993 -> 1998
@@ -16,6 +18,7 @@ F10, F12, F16
 FH12, FH16
 Rectengular headlights
 
+[id=m2b,reftext=Mk. 2b]
 === Mark 2b
 
 1998 ->  2002
@@ -23,30 +26,36 @@ Rectengular headlights
 Facelift
 Modified suspensions
 
+[id=m3a,reftext=Mk. 3a]
 === Mark 3a
 
 2002 -> 2005
 
 Facelift
 
+[id=m3b,reftext=Mk. 3b]
 === Mark 3b
 
 2005 -> 2008
 
+[id=m3c,reftext=Mk. 3c]
 === Mark 3c
 
 2008 -> 2012
 
+[id=m4a,reftext=Mk. 4a]
 === Mark 4a
 
 2012 -> 2020
 
 FH4
 
+[id=m4b,reftext=Mk. 4b]
 === Mark 4b
 
 2020 -> 2024
 
+[id=m5,reftext=Mk. 51]
 === Mark 5
 
 2024 -> present
@@ -85,21 +94,21 @@ Each of the F and FH Volvo marks were offered by Italeri. Mostly as tractors, so
 |link:https://www.scalemates.com/kits/italeri-751-volvo-f12--155743[751]
 |Italeri
 |Volvo F12
-|<<1>>
+|<<m1>>
 
 |link:https://www.scalemates.com/kits/italeri-752-globetrotter--157498[752]
 |Italeri
 |Globetrotter
-|<<1>>
+|<<m1>>
 
 |link:https://www.scalemates.com/kits/italeri-733-volvo-fh-16--155745[733]
 |Italeri
 |Volvo FH-16
-|<<2a>>
+|<<m2a>>
 
 |link:https://www.scalemates.com/kits/italeri-735-volvo-fh-16-globetrotter--157485[735]
 |Italeri
 |Volvo FH-16 Globetrotter
-|<<2a>>
+|<<m2a>>
 
 |===

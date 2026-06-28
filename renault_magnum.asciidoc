@@ -7,12 +7,14 @@ Renault Véhicules Industriels (Renault V. I., RVI) introduced the Renault Magnu
 
 == Marks
 
+[id=m1a,reftext=Mk. 1a]
 === Mark 1a
 
 May 1990 -> June 1992.
 
 Included the AE380 and the AE500 models. The offical name of the line was the "AE line" (=**AE**rodynamic \ **A**dvanced **E**ngineering \ **A**erodynamique **E**space) and the "Magnum" name was the top trim level offered on the AE500 model.
 
+[id=m1b,reftext=Mk. 1b]
 === Mark 1b
 
 July 1992 -> 1996
@@ -29,6 +31,7 @@ AE520 \ AE420 TBV - Version that includes a 9 gears automatic\manual gear box ca
 
 AE385 \ AE420 Light - Version with aluminum wheels and fuel tank. Offered on 4x2 and 6x2 rigids and on 4x2 tractors <<b16>>.
 
+[id=m2,reftext=Mk. 2]
 === Mark 2
 
 1997 -> 2001
@@ -39,6 +42,7 @@ Lower side panels are painted in the cab color (or any other color the buyer wan
 
 The "AE" was removed from the designation and the "INTEGRAL" label was added to mark the redesigned cab interior <<b6>>
 
+[id=m3,reftext=Mk. 3]
 === Mark 3
 
 2001 -> 2004
@@ -49,12 +53,14 @@ Renault became part of Volvo so many components were changed to Volvo components
 
 Newly designed side skirts (fairing) <<b6>>.
 
+[id=m4a,reftext=Mk. 4a]
 === Mark 4a
 
 2005 -> 2008
 
 New chassis and engines.
 
+[id=m4b,reftext=Mk. 4b]
 === Mark 4b
 
 2008 -> 2013
@@ -493,17 +499,17 @@ All Italeri kits include the EE9 Mack v8 engine from the initail release footnot
 |link:https://www.scalemates.com/kits/italeri-723-renault-ae500-magnum--157463[723]
 |Italeri
 |Renault AE 500 \<<Magnum>>
-|<<1a>>
+|<<m1a>>
 
 |link:https://www.scalemates.com/kits/italeri-748-tiger-express-truck-and-trailer--104061[748]
 |Italeri
 |Tiger Express Truck & Trailer
-|<<1a>>
+|<<m1a>>
 
 |link:https://www.scalemates.com/kits/italeri-716-renault-super-magnum--157462[716]
 |Italeri
 |Renault Super Magnum
-|<<1b>>
+|<<m1b>>
 
 |===
 

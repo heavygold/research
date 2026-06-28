@@ -5,11 +5,17 @@
 
 == Marks
 
+[id=m1,reftext=Mk. 1]
 === Mark 1
+
+1973 -> 1988
 
 NG (New Generation) range
 
+[id=m2,reftext=Mk. 2]
 === Mark 2
+
+1989 -> 1998
 
 SK (Schwere Klasse = Heavy Class) range
 
@@ -19,28 +25,106 @@ Visual changes compare to the NG range:
 * Full width front grille
 * Larger, more complex, dashboard (I have designed the correct dashboard in 1/24. It is available on Cults3D - link:https://cults3d.com/en/3d-model/game/mercedes-sk-updated-parts-1-24[Mercedes SK updated parts 1/24])
 
+[id=m3a,reftext=Mk. 3a]
 === Mark 3a
 
-Actros MP1
+1996 -> 2003
+
+Actros (later known as MP1)
 
 Completely new truck
 
+[id=m3b,reftext=Mk. 3b]
 === Mark 3b
+
+2003 -> 2008
 
 Actros MP2
 
+Larger grille, more "flowing" headlights.
+
+[id=m3c,reftext=Mk. 3c]
 === Mark 3c
+
+2008 -> 2011
 
 Actors MP3
 
+Modified grille, side mirrors mounted closer to the cab sides.
+
+[id=m4a,reftext=Mk. 4a]
 === Mark 4a
 
 2011 -> 2018
 
-The New Actors
+The New Actors. Also known as MP4.
 
+[id=m4b,reftext=Mk. 4b]
 === Mark 4b
 
-2018 ->
+2018 -> present
 
-Facelift
+Facelift. Also known as MP5.
+
+== Special editions
+
+=== The Black Edition
+
+Part of <<m3b>>. Limited to 250 units.
+Unique grille, headlights and interior colors
+
+=== Grand Prix Edition
+
+Part of <<m4a>>
+
+== Kits
+
+Most of Mercedes marks were\are offered by Italeri. All as tractors and the older marks also as rigids. Marks <<m1>> and <<m2>> were offered as 6x4 tractors and ridigs but mark <<3a>> and forward were offered only as a 4x2 tractors.
+
+[cols="1,2,5,1"]
+|===
+|Kit #|Manufacturer|Name|Mark
+
+|link:https://www.scalemates.com/kits/italeri-757-mercedes-benz-6x4--157501[757]
+|Italeri
+|Mercedes-Benz 6x4 Desert Train
+|<<m1>>
+
+|link:https://www.scalemates.com/kits/italeri-793-mercedes-benz-2448--131780[793]
+|Italeri
+|Mercedes-Benz 2448 Super Truck
+|<<m2>>
+
+|link:https://www.scalemates.com/kits/italeri-715-mercedes-benz-actros-megaspace--157479[715]
+|Italeri
+|Mercedes-Benz Actros Megaspace
+|<<m3a>>
+
+|link:https://www.scalemates.com/kits/italeri-3841-mercedes-benz-actros--101603[3841]
+|Italeri
+|Mercedes-Benz Actros Black Edition
+|<<m3b>>
+
+|link:https://www.scalemates.com/kits/italeri-3884-mercedes-benz-actros-mp3-white-liner-black-liner--179157[3884]
+|Italeri
+|Mercedes-Benz Actros MP3 White Liner/Black Liner
+|<<m3c>>
+
+|link:https://www.scalemates.com/kits/revell-07425-mercedes-benz-actros-mp3--765245[07425]
+|Revell
+|Mercedes-Benz Actros MP3
+|<<m3c>>
+
+|link:https://www.scalemates.com/kits/italeri-3905-mercedes-benz-actros-mp4-gigaspace--982082[3905]
+|Italeri
+|Mercedes-Benz Actros MP4 GogaSpace
+|<<m4a>>
+
+|===
+
+[bibliography]
+== References
+
+* [[[b1,1]]] link:https://en.wikipedia.org/wiki/Mercedes-Benz_NG[Mercedes-Benz NG], Wikipedia
+* [[[b2,2]]] link:https://en.wikipedia.org/wiki/Mercedes-Benz_SK[Mercedes-Benz SK], Wikipedia
+* [[[b3,3]]] link:https://en.wikipedia.org/wiki/Mercedes-Benz_Actros[Mercedes-Benz Actros], Wikipedia
