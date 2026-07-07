@@ -1,11 +1,13 @@
 = Wheels and tyres
 :nofooter:
 
-== Wheels
-
-=== Inner tube\Tubeless
+== Inner tube\Tubeless
 
 Older tyres require the use of an inner tube from softer rubber. Newer tyres don't use a tube - tubeless. The seal between the tyre itself and the wheel is good enough to hold the air.
+
+== Wheels
+
+The shape of the rim profil is different between tube and tubeless tyres and also the wheel sizes for tubed tyres are usually different from wheels for tubeless. Wheel sizes that ends with .5 (half an inch), like 22.5 or 24.5 are usally for tubeless while whole number wheels like 22 or 24 are often for tubed tyres.
 
 [id=wheel_diameters,reftext=here]
 === Diameters
@@ -48,28 +50,32 @@ There are several standard diameters of wheels:
 
 === Width
 
-The width of the wheel needs to match the width of the tyre (obviously).
+The width of the rim needs to match the width of the tyre but most tyres can be fitted on several rim widths.
 
 == Tyres\Tires
 
+=== Radial\Crossply
+
+The most common modern tyres are radial - the belts inside the tyres run parallel to the tyre. Older tyres (and tyres for agricultural tractors) are crossply - the belts in the tyres run in a criss-cross pattern.
+
 === Thread patterns
 
-The tyre thread is selected based on the tyre mission. Usually tyres on steering axles and tyres on drive axles have different tread.
+The tyre thread is selected based on the tyre mission. Different patterns are optimized for steering axles, drive axles or trialers but some tyres come with universal pattern.
 
 === Sizes
 
-There are two systems to measure tyres sizes, the metric and the imperial.
+There are two systems to measure tyres sizes, the P-Metric and the imperial.
 
-==== metric
+==== P-Metric
 
 www/hhRwheel_size
 
-* www - the width of the tyre at the tread in millimeters. 
-* hh - the height of the tyre wall as percents of the tyre width = aspect ratio\profile
-* R = radial (tubeless)
+* www - Tyre section width. The width of the tyre at the widest section in millimeters. The tread itself is narrower.
+* hh - Aspect ratio. The height of the tyre wall as percents of the tyre width. Also known as the tyre profile.
+* R = radial (tubeless). - (dash) = crossply
 * wheel_size - the wheel size as described <<wheel_diameters>>
 
-===== Common metric tyre sizes
+===== Common P-Metric tyre sizes
 
 [col="1,1,1,5"]
 |===

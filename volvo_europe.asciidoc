@@ -24,12 +24,15 @@ Rectengular headlights
 1998 ->  2002
 
 Facelift
+
 Modified suspensions
 
 [id=m3a,reftext=Mk. 3a]
 === Mark 3a
 
 2002 -> 2005
+
+Sometime called FH3
 
 Facelift
 
@@ -82,6 +85,30 @@ Two driven axles. Parabolic or trapezoid springs.
 8 airbags.
 
 Two driven axles
+
+== Special Editions
+
+=== Volvo 80 Years Anniversory
+
+Introduced in 2007
+
+<<m3b>>
+
+Decal sheet available from link:https://www.max-model.it/en/volvo-fh3/3390-volvo-fh3-limired-edition-80-years-m67931.html[Max Model Decals].
+
+=== Performance Edition
+
+Introduced in 2016.
+
+Only avaiable with the Globetrotter cab.
+
+<<m4a>>
+
+Swedish or Norwegian flags colors and graphics.
+
+Italeri offered it (but with the incorrect low roof) as link:https://www.scalemates.com/kits/italeri-3967-volvo-fh-low-roof--1612046[kit #3967].
+
+Decal sheet available from link:https://www.max-model.it/en/volvo/1093-volvo-fh4-performance-edition-2015-2017-m67407.html[Max Model Decals].
 
 == Kits
 
