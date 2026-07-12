@@ -1,0 +1,94 @@
+= DAF XF
+:nofooter:
+
+== Introduction
+
+DAF (van Doorne's Aanhangwagen Fabriek) is dutch heavy vehicles manufacturer founded in 1928 and part of the American PACCAR group since 1996 <<b4>>.
+
+== Marks
+
+[id=m1a,reftext=Mk. 1a]
+=== Mark 1a
+
+1987 -> 1991
+
+DAF 95
+
+Engines: 310, 350 or 380 hp <<b4>>
+
+[id=m1b,reftext=Mk. 1b]
+=== Mark 1b
+
+1991 -> 1997
+
+DAF 95
+
+Engines: 329, 364, 401 hp. Later Cummins N14 with 507 hp was added too <<b4>>.
+
+[id=m2,reftext=Mk. 2]
+=== Mark 2
+
+1997 -> 2003
+
+DAF 95 XF (the "XF" are following the "95").
+
+XF = eXtra Force
+
+About 80% new components compared to DAF 95 <<b3>>.
+
+12.6 liter, 6 cylinders engines with 380, 480 or 530 hp. At of begining the 530 version was Cummins N14 also used in 95.500 - later replaced with the DAF 12.6 engine) <<b3>>
+
+Available cabs:
+
+* Comfort cab
+* Space cab
+* Super Space cab
+
+Day cab not available on this model and forward <<b3>>.
+
+Almost 79,000 95XF were built <<b3>>.
+
+[id=m3,reftext=Mk. 3]
+=== Mark 3
+
+2003 -> 2006
+
+DAF XF 95 (the "XF" are in front the "95").
+
+[id=m4,reftext=Mk. 4]
+=== Mark 4
+
+2005 -> 2013
+
+XF 105 Introduced and replaced the XF 95 from 2007.
+
+Recieved Euro 6 engines in 2012
+
+[id=m5a,reftext=Mk. 5a]
+=== Mark 5a
+
+2012 -> 2017
+
+Called just "XF" (with no following number)
+
+[id=m5b,reftext=Mk. 5b]
+=== Mark 5b
+
+2017 -> 2021
+
+Facelift
+
+[id=m6,reftext=Mk. 6]
+=== Mark 6
+
+Practically a new truck
+
+The largest cabs are designated XG and XG+
+
+[bibliography]
+== References
+
+* [[[b1,1]]] link:https://en.namu.wiki/w/DAF%20XF[DAF XF], namu.wiki
+* [[[b2,2]]] link:https://de.wikipedia.org/wiki/DAF_XF_95_/_DAF_XF_105[DAF XF 95 / DAF XF 105], Wikipedia
+* [[[b3,3]]] link:https://www.facebook.com/DAFFanInternational/posts/%F0%9D%91%A9%F0%9D%92%82%F0%9D%92%84%F0%9D%92%8C-%F0%9D%92%8A%F0%9D%92%8F-%F0%9D%92%95%F0%9D%92%89%F0%9D%92%86-%F0%9D%92%85%F0%9D%92%82%F0%9D%92%9A%F0%9D%92%94-%F0%9D%90%8C%F0%9D%90%9E%F0%9D%90%A6%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%83%F0%9D%90%80%F0%9D%90%85-%F0%9D%9F%97%F0%9D%9F%93%F0%9D%90%97%F0%9D%90%85at-the-salon-1997-in-brussel-was-the-bi/946993527635555/[Back in the days... Memories of the DAF 95XF], Facebook, DAF Fan, March 10, 2025
+* [[[b4,4]]] link:https://en.wikipedia.org/wiki/DAF_Trucks[DAF Trucks], Wikipedia

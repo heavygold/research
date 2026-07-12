@@ -15,3 +15,5 @@ Please see the introduction section for details.
 [Wheels and tyres](wheels_and_tyres.asciidoc)
 
 [Mercedes NG\SK\Actors](mercedes.asciidoc)
+
+[DAF 95\XF](daf_95_and_xf.asciidoc)

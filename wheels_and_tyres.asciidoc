@@ -7,7 +7,7 @@ Older tyres require the use of an inner tube from softer rubber. Newer tyres don
 
 == Wheels
 
-The shape of the rim profil is different between tube and tubeless tyres and also the wheel sizes for tubed tyres are usually different from wheels for tubeless. Wheel sizes that ends with .5 (half an inch), like 22.5 or 24.5 are usally for tubeless while whole number wheels like 22 or 24 are often for tubed tyres.
+The shape of the rim profil is different between tube and tubeless tyres and also the wheel sizes for tubed tyres are usually different from wheels for tubeless. Wheel sizes that ends with ".5" (half an inch), like 22.5 or 24.5 are usally for tubeless while whole number wheels like 22 or 24 are often for tubed tyres.
 
 [id=wheel_diameters,reftext=here]
 === Diameters
