@@ -17,3 +17,5 @@ Please see the introduction section for details.
 [Mercedes NG\SK\Actors](mercedes.asciidoc)
 
 [DAF 95\XF](daf_95_and_xf.asciidoc)
+
+[3D printing](3d_printing.asciidoc)
