@@ -1,5 +1,44 @@
 = 3D printing
 :nofooter:
 
-The Internet is full with advices around hobby 3D printing but most of them are pretaining more to figures. This page will document tips and advices that I have found that are specific to printing scale modeling parts.
+The Internet is full with advices around hobby 3D printing but most of them are pretaining more to figures. This page will document tips and advices that are specific to printing scale modeling parts.
 
+== Printer
+
+== Resin
+
+== Printing resolution
+
+Most newer printers can easily print in 20 microns (vertical\Z axis) resolution and even less with more careful tuning.
+
+Since I am very impatient and sand the parts any way I usally print in 50 microns. This does leave some visible layer marks that primer can't hide but in most cases they can be easily removed with light sanding or a fiberglass pen.
+
+== Post-processing
+
+Due to uneven shrinkage of the resin parts (especially long and narrow) can bend and twist. To straighten the parts I dip them for 30-60 seconds (depending on the size and thickness of the part) in hot water (no boiling but hot), clamp them to something stright (like aluminum sanding bar) and let them cool.
+
+Be carefull when clamping the hot part since the resin become very soft and can be easily deformed.
+
+== Design considerations
+
+=== Wall thickness
+
+For load-bearing parts (like springs or axle casings) I try to keep the mininum thickness to around 1.5mm. 
+
+For all other parts, anything bigger than a few millimeters square I use 0.8mm thickness and for smaller areas 0.5mm.
+
+=== Hollowing
+
+I try to design any part larger than a brake chamber as hollow which, usally, invlove splitting it to a least two parts.
+
+Not sure it actually save any resin (two separate parts often required more supports compared to a single part) but I think that saving weight and reducing the cross-section for printing justify the effort.
+
+=== Tolerance
+
+A part that needs to fit into another part must be at least 0.1mm smaller.
+
+== Safety
+
+* Of course follow all the safety steps needed for 3D resin printing. 
+
+* When sanding resin parts don't breathe the dust. Use wet sanding or wear a mask
