@@ -19,7 +19,7 @@ Included the AE380 and the AE500 models. The offical name of the line was the "A
 
 July 1992 -> 1996
 
-"Magnum" became the offical name of the entire line <<b13>>.
+"Magnum" became the offical name of the entire line <<b13>>, <<b18>>.
 
 The non-Euro EE9 Mack engine was replaced with 520 HP Euro2 Mack engine and the 374 HP Renault engine was replaced with 385 HP Renault engine. Additional 415 HP engine was added.
 
@@ -533,3 +533,4 @@ All Italeri kits include the EE9 Mack v8 engine from the initail release footnot
 * [[[b15,15]]] link:https://truckblog.co.uk/2014/05/27/r-i-p-magnum-2010-magnum-route-66-limited-edition/[truckblog.co.uk - R.I.P. Magnum: 2010 Magnum “Route 66” Limited Edition] by Ben, May 27, 2014
 * [[[b16,16]]] Renault sale brochure, May 1993, Ref. 50 10 819 415 
 * [[[b17,17]]] Renault sale brochure, August 2001, Ref. 50 02 001 867 
+* [[[b18,18]]] link:https://www.fondationberliet.org/ressources-documentaires-archives/galerie/renault-rvi-ae-magnum/[Renault AE Magnum: the 36th anniversary album] FondationBerliet.org
