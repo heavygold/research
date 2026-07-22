@@ -5,9 +5,9 @@
 
 Older tyres require the use of an inner tube from softer rubber. Newer tyres don't use a tube - tubeless. The seal between the tyre itself and the wheel is good enough to hold the air.
 
-== Wheels
+== Wheels (rims)
 
-The shape of the rim profil is different between tube and tubeless tyres and also the wheel sizes for tubed tyres are usually different from wheels for tubeless. Wheel sizes that ends with ".5" (half an inch), like 22.5 or 24.5 are usally for tubeless while whole number wheels like 22 or 24 are often for tubed tyres.
+The shape of the rim profil is different between tube and tubeless tyres and also the wheel sizes for tubed tyres are usually different from wheels for tubeless. Rims sizes that ends with ".5" (half an inch), like 22.5 or 24.5 are usally for tubeless while whole number wheels like 22 or 24 are often for tubed tyres.
 
 [id=wheel_diameters,reftext=here]
 === Diameters
@@ -50,7 +50,41 @@ There are several standard diameters of wheels:
 
 === Width
 
-The width of the rim needs to match the width of the tyre but most tyres can be fitted on several rim widths.
+The width of the rim needs to related to the width of the tyre but most tyres can be fitted on several rim widths.
+
+The rim width is usually 2-4 inches narrower than the tyre
+
+==== Common widths
+
+|===
+|Rim width (inches)|Common rim diameters|Common tyres widths (inches or mm)|Comment
+
+|7.50
+|17, 17.5, 19, 19.5, 20, 22.5, 24.5
+|10, 11, 235, 245, 255, 265, 275, 285
+|Common in the 80s but still used today in low-loaders and high cube trailers
+
+|8.25
+|19.5,  22.5, 24.5
+|10, 11, 12, 255, 265, 275, 285
+|
+
+|9.00
+|22.5, 24.5
+|12, 13, 295, 315
+|Most common on heavy trucks since the 2000s
+
+|11.75
+|22.5, 24.5
+|385
+|Common for super single
+
+|12.25
+|22.5, 24.5
+|385
+|Common for super single
+
+|===
 
 == Tyres\Tires
 
