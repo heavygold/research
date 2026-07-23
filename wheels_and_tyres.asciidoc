@@ -106,7 +106,7 @@ www/hhRwheel_size
 
 * www - Tyre section width. The width of the tyre at the widest section in millimeters. The tread itself is narrower.
 * hh - Aspect ratio. The height of the tyre wall as percents of the tyre width. Also known as the tyre profile.
-* R = radial (tubeless). - (dash) = crossply
+* R = radial. - (dash) = crossply
 * wheel_size - the wheel size as described <<wheel_diameters>>
 
 ===== Common P-Metric tyre sizes
